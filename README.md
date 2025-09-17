@@ -1,6 +1,6 @@
 # 🔢 Switch Case Calculator (C++)
 
-This is a simple **calculator program in C++** that uses a `switch case` statement to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a simple **calculator program in C++** that uses a `switch case` statement to perform basic arithmetic operations like addition, subtraction, multiplication, division and modulus.
 
 ---
 
